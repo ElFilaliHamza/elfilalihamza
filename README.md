@@ -8,7 +8,7 @@ Software Engineer and Data Scientist. Passionate about AI, data science, and sof
 I am a software engineer specializing in managing software projects and leading teams to success. With a strong background in AI and data science, I am skilled in using the latest technologies to create innovative solutions. I invite you to explore my portfolio of projects and coding methods on my GitHub page.
 
 - 📍 **Location:** Morocco, Meknes
-- 🌐 **LinkedIn:** [Hamza El Filali](https://www.linkedin.com/in/hamza-el-filali-ma)
+- 🌐 **LinkedIn:** [HAMZA EL FILALI](https://www.linkedin.com/in/hamza-el-filali-ma)
 - 🌐 **Portfolio:** [HAMZA EL FILALI](https://elfilalihamza.netlify.app/)
 
 ## Languages and Tools
