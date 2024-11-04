@@ -50,11 +50,11 @@ I am a software engineer specializing in managing software projects and leading 
 
   
 ## Popular Repositories
-
+- **PDF RAG:** A Python-based project for extracting and managing data from PDF files, featuring tools for saving notes to Excel files and querying data from external PDF files. 
+It utilizes technologies like LlamaIndex, Pandas, Groq, and others.
 - **Prefrite:** Lead developer for a sales and inventory management web app using Node.js and React.
 - **Ma Auto Social:** A platform for automated social media content management with React.js and Django (using meta graph api).
 - **Players-Face-Recognition:** Developed a Django app for recognizing famous soccer players using OpenCV.
-
 
 ---
 
