@@ -9,6 +9,7 @@ I am a software engineer specializing in managing software projects and leading 
 
 - 📍 **Location:** Morocco, Meknes
 - 🌐 **LinkedIn:** [Hamza El Filali](https://www.linkedin.com/in/hamza-el-filali-ma)
+- 🌐 **Portfolio:** [HAMZA EL FILALI](https://elfilalihamza.netlify.app/)
 
 ## Languages and Tools
 
