@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hamza El Filali
+# Hi 👋, I'm El Filali Hamza
 
-🌟 **hamza-elfilali** · he/him  
+🌟 **elfilalihamza** · he/him  
 Software Engineer and Data Scientist. Passionate about AI, data science, and software development. Open to new opportunities and collaborations.
 
 ## About Me
