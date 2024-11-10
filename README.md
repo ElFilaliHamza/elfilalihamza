@@ -72,7 +72,7 @@
 ## Popular Repositories
 
 - **TRAK-ANPR-Automatic-Number-Plate-Recognition:** An application for detecting and recognizing car license plates from images or video frames. It uses the TensorFlow Object Detection API and YOLOv3 architecture, fine-tuned for car plate detection, and trained on a dataset provided by Université Mohammed VI Polytechnique (UM6P).
-- **PDF RAG:** A Python-based project for extracting and managing data from PDF files, featuring tools for saving notes to Excel files and querying data from external PDF files. It utilizes technologies like LlamaIndex, Pandas, Groq, and others.
+- **PDF RAG:** A Python-based project for extracting and managing informations with a chatbot from PDF files, featuring tools for saving notes to Excel files and querying data from external PDF files. It utilizes technologies like LlamaIndex, Pandas, Groq, and others.
 - **Sarcasm-Detection:** A project utilizing the RoBERTa model from the Hugging Face library, fine-tuned for sarcasm detection on a specific dataset. Achieved an F1-score of 53% on the positive class, demonstrating its effectiveness in identifying sarcastic content. The project includes a model verification notebook for transparency and reproducibility.
 - **Prefrite:** Lead developer for a sales and inventory management web app using Node.js and React.
 - **Ma Auto Social:** A platform for automated social media content management with React.js and Django (using Meta Graph API).
