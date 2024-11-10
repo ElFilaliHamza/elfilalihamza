@@ -7,7 +7,7 @@
 - ✍️ &nbsp;In my free time, I enjoy listening to music, reading books, and going for long walks.
 - 💬 &nbsp;I am currently looking for job opportunities in Software Engineering, Data Engineering, and Data Science. Feel free to reach out if you want to collaborate, volunteer, or have an interesting discussion.
 
-<img alt="Coding..." src="https://raw.githubusercontent.com/ElFilaliHamza/elfilalihamza/refs/heads/main/assets/Coding-Screens.gif" width="300" align="center"/>
+<img alt="Coding..." src="https://raw.githubusercontent.com/ElFilaliHamza/elfilalihamza/refs/heads/main/assets/Coding-Screens.gif" width="300" />
 
 ### 🛠 &nbsp;Tech Stack
 
